@@ -61,6 +61,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-💡 **Author:** [Your Name](https://github.com/musfiqurrabeg)  
+💡 **Author:** [Musfiqur Rahman Abeg](https://github.com/musfiqurrabeg)  
 🚀 **Follow for more data science & analytics projects!**
 
